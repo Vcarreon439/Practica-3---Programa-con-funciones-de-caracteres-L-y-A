@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 3 - Programa con funciones de caracteres L y A", "Practica 3 - Programa con funciones de caracteres L y A\Practica 3 - Programa con funciones de caracteres L y A.csproj", "{721A458E-800B-4DEE-B50E-CBCE680D740D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{721A458E-800B-4DEE-B50E-CBCE680D740D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721A458E-800B-4DEE-B50E-CBCE680D740D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721A458E-800B-4DEE-B50E-CBCE680D740D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721A458E-800B-4DEE-B50E-CBCE680D740D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEDBC64D-44AA-4779-94C6-343F87776FA2}
+	EndGlobalSection
+EndGlobal

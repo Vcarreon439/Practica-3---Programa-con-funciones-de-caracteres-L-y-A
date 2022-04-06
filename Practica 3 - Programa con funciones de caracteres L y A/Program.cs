@@ -38,6 +38,8 @@ namespace Practica_3___Programa_con_funciones_de_caracteres_L_y_A
             Console.WriteLine($" Alumno: Arguijo Vazquez Edgar Eduardo - No. Control: 192310252");
             Console.WriteLine($" Alumno: Carreon Pulido Victor Hugo - No. Control: 192310436");
             Console.WriteLine($" Alumno: Mejia Rubio Andrea Evelyn - No. Control: 192310177");
+            Console.WriteLine($" Alumno: Lopez Torres Daniel - No. Control: 192310800");
+            Console.WriteLine($" Alumno: Hernandez Gavira Cristian Alberto - No. Control: 19231100");
             Console.Write("\n Presione cualquier tecla para continuar: ");
             Console.ReadKey();
         }
